@@ -1,5 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-
 function [polyX indices] = multinom(X, degree)
   [m,n] = size(X);
     
