@@ -1,0 +1,1 @@
+Print "Hello World" N times. The input portion will be handled automatically. You need to write a function with the recommended method signature.
