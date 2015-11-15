@@ -1,0 +1,6 @@
+Charlie wants to buy a house. He does a detailed survey of the houses in the area, and tries to quantify a lot of factors, such as the distance of the houses from commercial areas, schools and workplaces; the reputation of the construction companies and builders involved in constructing the apartments; the distance of the houses from highways, freeways and important roads; the size of the house; the facilities offered by the complex, and so on.
+
+Each of these factors are quantified, normalized and mapped to values on a scale of 0 to 1. Charlie then makes a table. Each row in the table corresponds to Charlie's observations for a particular house. If Charlie has observed and noted F features, the row contains F comma separated values, followed by the house price in dollars per square foot at the end. If Charlie makes observations for H houses, his observation table has (F+1) columns and H rows, and a total of (F+1) * H entries.
+
+Unfortunately, he was not able to get the pricing of some houses and he wants your help to give out an estimate of the pricing of the house.
+There is one important observation which Charlie has made. The prices per square foot, are (approximately) a linear function of the features in the observation table. For the purpose of prediction, you need to figure out this linear function.
