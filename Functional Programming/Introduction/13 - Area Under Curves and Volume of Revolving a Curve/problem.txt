@@ -1,0 +1,9 @@
+Definite Integrals via Numerical Methods
+This relates to definite integration via numerical methods.
+Consider the algebraic expression given by:
+(a1)xb1 + (a2)xb2 + (a3)xb3 ......(an)xbn
+For the purpose of numerical computation, the area under the curve y = f(x) between the limits a and b can be computed by the Limit Definition of a Definite Integral.
+Using equal Sub-Intervals of length = 0.001, you need to
+    1. Evaluate the area bounded by a given polynomial function of the kind described above, between given limits L and R.
+    2. Evaluate the volume of the solid obtained by revolving this polynomial curve around the X-Axis.
+An absolute error margin of 0.02 will be tolerated.
