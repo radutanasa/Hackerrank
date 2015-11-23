@@ -1,0 +1,3 @@
+Scturtle likes strings very much. He is getting bored today, because he has already completed this week's task and doesn't have anything else to do. So he starts left-rotating a string. If the length of the string is n, then he will rotate it n times and note down the result of each rotation on a paper. 
+
+For a string S=s1s2…sn, n rotations are possible. Let's represent these rotations by r1,r2…rn. Rotating it once will result in string r1=s2s3…sns1, rotating it again will result in string r2=s3s4…sns1s2 and so on. Formally, ith rotation will be equal to ri=si+1…sn−1sns1…si. Note that rn=S.
