@@ -1,0 +1,5 @@
+Pawel and Shaka recently became friends. On their planet, it is believed that their friendship will last forever, if they merge their favorite strings and etch it on the surface of a stone.
+
+So we will mingle their favorite strings. The lengths of their favorite strings is same (say n). Mingling two strings, P=p1p2…pn and Q=q1q2…qn, both of length n, will result in creation of a new string R of length 2×n. It will have the following structure: R=p1q1p2q2…pnqn
+
+You are given two strings P (favorite of Pawel) and Q (favorite of Shaka), find the mingled string R.
